@@ -16,7 +16,6 @@
 1. :books: Reading the book: Reinforcement Learning: An Introduction second edition.
 <!--END_SECTION:activity-->
 
----
 
 <!---
 pengyuanwei/pengyuanwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
