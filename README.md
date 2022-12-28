@@ -13,7 +13,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. :books: Reading Reinforcement Learning: An Introduction second edition.
+1. :books: Reading the book: Reinforcement Learning: An Introduction second edition.
 <!--END_SECTION:activity-->
 
 ---
