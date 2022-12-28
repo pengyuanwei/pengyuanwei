@@ -5,8 +5,9 @@
 - 💞️ I’m looking to collaborate on robotics
 - 📫 How to reach me: 
   - py.wei@outlook.com
-  - [![](https://img.shields.io/badge/blog-@champyin-red.svg)](https://champyin.com)
-  - ?logo=appveyor?https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpengyuan_wei
+  - [![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpengyuan_wei)]
+  https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpengyuan_wei
+  - https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpengyuan_wei
 
 <!---
 pengyuanwei/pengyuanwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
