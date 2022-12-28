@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Pengyuan Wei.
+### 👋 Hi there, I’m Pengyuan Wei.
 
 - 👀 I’m interested in swarm robotics with AI
 - 🌱 I’m currently learning reinforcement learning
