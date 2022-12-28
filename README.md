@@ -1,5 +1,9 @@
 ### 👋 Hi there, I’m Pengyuan Wei.
 
+---
+
+### :zap: About Me
+
 - 👀 I’m interested in swarm robotics with AI.
 - 🌱 I’m currently doing my PhD at UCL.
 - 💞️ I’m looking to collaborate on robotics with you.
