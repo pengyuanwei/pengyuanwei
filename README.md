@@ -2,7 +2,7 @@
 
 
 
-### :zap: About Me
+### About Me
 
 - I’m interested in multi-agent system with AI.
 - I’m currently doing my PhD at UCL.
@@ -14,10 +14,10 @@
 
 ---
 
-### :zap: Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
-1. :books: Reading the book: Reinforcement Learning: An Introduction second edition.
+1. Reading the book: Reinforcement Learning: An Introduction second edition.
 <!--END_SECTION:activity-->
 
 
